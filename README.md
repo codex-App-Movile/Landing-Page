@@ -1,6 +1,6 @@
 # Landing-Page MusicTime
 
-Este proyecto es una landing page desarrollada para el trabajo final de Aplicaciones Web.
+Este proyecto es una landing page desarrollada para el trabajo final de Aplicaciones Movile.
 Starup: CODEX
 Proyecto: MusicTime
 
@@ -18,4 +18,4 @@ Las siguientes herramientas se utilizaron en el desarrollo de esta landing page:
 
 El desarrollo de esta landing page se realizó en un entorno de Windows, utilizando el editor de código Visual Studio Code. Se utilizó Git para el control de versiones y GitHub para el alojamiento del repositorio.
 
-UPC - 202401
+UPC - 202402
